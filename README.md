@@ -70,4 +70,4 @@ npx expo start
 
 ## 👤 Author
 
-[Andrew Evboifo]
+Andrew Evboifo | Full Stack Developer | React | JavaScript | APIs
